@@ -7,24 +7,24 @@ layout: page
 <img src="./images/tzhj_robot.jpg" class="floatpic" width="50%" height="50%">
 Hi there! I'm currently a research engineer at [Shenzhen Institute of Artificial Intelligence and Robotics for Society]  \([AIRS]\), mainly participating in the *Multi-Agent Collaborative Manipulation* strand of [UoE-AIRS Joint Project].
 
-Previously, after receiving my B.Sc and M.Eng degrees both from [Beihang University], I have ever worked in industry and developed [an advanced collaborative robot] with torque sensors on each joint as a core member. Afterwards, I went to Hong Kong and worked as a research assistant with Dr. Peng Lu and Dr. Jia Pan successively.
+Previously, after receiving my B.Sc and M.Eng degrees both from [Beihang University], I worked in industry and developed [an advanced collaborative robot] with torque sensors on each joint as a core member of control and planning group. Afterwards, I went to Hong Kong and worked as a research assistant with Dr. Peng Lu and Dr. Jia Pan successively.
 
-I am interested in applying advanced control techniques to robots that are able to interact with the environment and more collaborative with humans. Now, I am mainly working on developing adaptive control algorithms for human-robot collaboration for mobile-manipulators to improve the working efficiency in manufacturing factories.
+I am interested in applying advanced control techniques to robots that are able to interact with the environment and more collaborative with humans. Now, I am mainly working on developing adaptive control algorithms on mobile-manipulators for efficient human-robot collaboration to improve the working efficiency in factories.
 
 #### Education
 
-- M.Eng, [Beihang University], 2014-2017
+- 2014-2017,  M.Eng,  [Beihang University]
   - *Flight Dynamics & Control*
   - Excellent Graduate Student Award (10%)
-- B.Sc, [Beihang University], 2010-2014
+- 2010-2014,  B.Sc,  [Beihang University]
   - *Aeronautical Engineering*
   - Excellent Student Award (10%)
 
 #### Experience
 
-- Research Engineer, [AIRS], 2020.10-present
-- Research Assistant, [PolyU] & [HKU], 2019.01-2020.07
-- Robotics Algorithm Engineer, [ROKAE], 2017.05-2018.11
+- 2020.10-present,  Research Engineer,  [AIRS]
+- 2019.01-2020.07, Research Assistant,  [PolyU] & [HKU]
+- 2017.05-2018.11, Robotics Algorithm Engineer,  [ROKAE]
 
 #### Skills
 
