@@ -9,7 +9,7 @@ Hi there! I'm currently a research engineer at [Shenzhen Institute of Artificial
 
 Previously, after receiving my B.Sc and M.Eng degrees both from [Beihang University], I have ever worked in industry and developed [an advanced collaborative robot] with torque sensors on each joint as a core member. Afterwards, I went to Hong Kong and worked as a research assistant with Dr. Peng Lu and Dr. Jia Pan successively.
 
-I am interested in applying advanced control techniques to robots that are able to interact with the environment and more collaborative with humans. Now, I am mainly working on developing adaptive control algorithms for human-robot collaboration to improve the working efficiency in manufacturing factories.
+I am interested in applying advanced control techniques to robots that are able to interact with the environment and more collaborative with humans. Now, I am mainly working on developing adaptive control algorithms for human-robot collaboration for mobile-manipulators to improve the working efficiency in manufacturing factories.
 
 #### Education
 
