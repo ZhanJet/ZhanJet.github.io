@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - author: "Zhangjie Tu, Peng Lu"
+  - author: "**Zhangjie Tu**, Peng Lu"
     title: "Model-based Disturbance Observation and Rejection for Quadrotors Inputted with Wrench Command"
     month: "**in prep**"
     year: ""
@@ -14,14 +14,14 @@ pubs:
     title: "Nonsingular Terminal Sliding Mode Control for a Quadrotor UAV with a Total Rotor Failure"
     month: "March"
     year: "2020"
-    booktitle: "Aerospace Science and Technology"
+    journal: "Aerospace Science and Technology"
     url: "https://www.sciencedirect.com/science/article/abs/pii/S1270963819316414"
 
-  - author: "**TU Zhangjie**, WANG Lixin, CHEN Junping"
+  - author: "**Tu Zhangjie**, Wang Lixin, Chen Junping"
     title: "Assessment of go-around climb gradient for civil aircraft based on digital virtual flight"
     month: "February"
     year: "2017"
-    booktitle: "Journal of Beijing University of Aeronautics & Astronautics"
+    journal: "Journal of Beijing University of Aeronautics & Astronautics"
     url: "https://bhxb.buaa.edu.cn/EN/10.13700/j.bh.1001-5965.2016.0879"
 ---
 ## Publications
