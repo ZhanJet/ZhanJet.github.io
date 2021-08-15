@@ -1,6 +1,6 @@
 ---
 layout: page
 permalink: /works/index.html
-title:
+title: Work
 ---
 ### Work Experience

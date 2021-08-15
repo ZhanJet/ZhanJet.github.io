@@ -5,20 +5,20 @@ layout: page
 
 <br/>
 <img src="./images/tzhj_robot.jpg" class="floatpic" width="50%" height="50%">
-Hi there! I'm currently a research engineer at [Shenzhen Institute of Artificial Intelligence and Robotics for Society]  \([AIRS]\), mainly participating in the *Multi-Agent Collaborative Manipulation* strand of [UoE-AIRS Joint Project].
+Hi there! I'm currently a research engineer at [Shenzhen Institute of Artificial Intelligence and Robotics for Society]  \([AIRS]\), mainly working on the *Multi-Agent Collaborative Manipulation* strand of [UoE-AIRS Joint Project].
 
-Previously, after receiving my B.Sc and M.Eng degrees both from [Beihang University], I worked in industry and developed [an advanced collaborative robot] with torque sensors on each joint as a core member of control and planning group. Afterwards, I went to Hong Kong and worked as a research assistant with Dr. Peng Lu and Dr. Jia Pan successively.
+Previously, after receiving my B.Sc and M.Eng degrees both from [Beihang University], I worked in industry and developed [an advanced collaborative robot] with torque sensors on each joint as a core member of the algorithm group. Afterwards, I went to Hong Kong and worked as a research assistant with Dr. Peng Lu and Dr. Jia Pan successively.
 
 I am interested in applying advanced control techniques to robots that are able to interact with the environment and more collaborative with humans. Now, I am mainly working on developing adaptive control algorithms on mobile-manipulators for efficient human-robot collaboration to improve the working efficiency in factories.
 
 #### Education
 
-- 2014-2017,  M.Eng,  [Beihang University]
+- 2014-2017,  **M.Eng**,  [Beihang University]
   - *Flight Dynamics & Control*
-  - Excellent Graduate Student Award (10%)
-- 2010-2014,  B.Sc,  [Beihang University]
+  - Excellent Graduate Student Award (top 10%)
+- 2010-2014,  **B.Sc**,  [Beihang University]
   - *Aeronautical Engineering*
-  - Excellent Student Award (10%)
+  - Excellent Student Award (top 10%)
 
 #### Experience
 
@@ -30,7 +30,7 @@ I am interested in applying advanced control techniques to robots that are able 
 
 * C/C++, Python, Matlab/Simulink/Simscape, Linux, Git
 * ROS/Gazebo, OROCOS, Pybullet
-* Hands-on experiences on MAVs, manipulators and mobile-manipulators
+* Hands-on experiences on MAV, manipulator and mobile-manipulator
 * Theory of kinematics, dynamics, control and identification in Robotics & Aeronautics.
 
 [BUAA]: https://ev.buaa.edu.cn/

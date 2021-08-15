@@ -2,7 +2,7 @@ title: Tu Zhangjie
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: https://zhanjet.github.io
+url: #https://zhanjet.github.io
 
 # Owner/author information
 owner:
