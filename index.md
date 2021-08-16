@@ -5,7 +5,7 @@ layout: page
 
 <br/>
 <img src="./images/tzhj_robot.jpg" class="floatpic" width="50%" height="50%">
-Hi there! I'm currently a research engineer at [Shenzhen Institute of Artificial Intelligence and Robotics for Society]  \([AIRS]\), mainly working on the *Multi-Agent Collaborative Manipulation* strand of [UoE-AIRS Joint Project].
+**Hi there!** I'm currently a research engineer at [Shenzhen Institute of Artificial Intelligence and Robotics for Society]  \([AIRS]\), mainly working on the *Multi-Agent Collaborative Manipulation* strand of [UoE-AIRS Joint Project].
 
 Previously, after receiving my B.Sc and M.Eng degrees both from [Beihang University], I worked in industry and developed [an advanced collaborative robot] with torque sensors on each joint as a core member of the algorithm group. Afterwards, I went to Hong Kong and worked as a research assistant with Dr. Peng Lu and Dr. Jia Pan successively.
 
@@ -13,18 +13,18 @@ I am interested in applying advanced control techniques to robots that are able 
 
 #### Education
 
-- 2014-2017,  **M.Eng**,  [Beihang University]
+- 2014 - 2017,  **M.Eng**,  [Beihang University]
   - *Flight Dynamics & Control*
   - Excellent Graduate Student Award (top 10%)
-- 2010-2014,  **B.Sc**,  [Beihang University]
+- 2010 - 2014,  **B.Sc**,  [Beihang University]
   - *Aeronautical Engineering*
   - Excellent Student Award (top 10%)
 
 #### Experience
 
-- 2020.10-present,  Research Engineer,  [AIRS]
-- 2019.01-2020.07, Research Assistant,  [PolyU] & [HKU]
-- 2017.05-2018.11, Robotics Algorithm Engineer,  [ROKAE]
+- 10/2020 - present,  Research Engineer,  [AIRS]
+- 01/2019 - 07/2020, Research Assistant,  [PolyU] & [HKU]
+- 05/2017 - 11/2018, Robotics Algorithm Engineer,  [ROKAE]
 
 #### Skills
 

@@ -1,0 +1,46 @@
+I"�<h2 id="work-experience">Work Experience</h2>
+
+<ul>
+  <li>10/2020 - present,  Research Engineer,  [AIRS] (深圳市人工智能与机器人研究院)
+    <ul>
+      <li>Work on the strand of <em>Multi-Agent Collaborative Manipulation</em> of [UoE-AIRS Joint Project]</li>
+      <li>Developed a Whole-Body Controller for mobile-manipulators based on Dynamic Motion Primitive (DMP) for intuitive human-robot collaboration.</li>
+      <li>Developed Force Control software including admittace control, force tracking and hybrid impedance/force control for manipulators mounted F/T sensor on end-effector.</li>
+    </ul>
+  </li>
+</ul>
+
+<video width="50%" height="auto" controls="controls" preload="auto">
+    <source src="https://www.youtube.com/watch?v=ekkGuck5XA8" type="video/mp4" />
+</video>
+
+<table>
+  <tr>
+    &lt;td width=50%&gt;
+      <iframe width="300" height="200" src="https://www.youtube.com/watch?v=ekkGuck5XA8" frameborder="0" allowfullscreen=""></iframe>
+    &lt;/td&gt;
+  </tr>
+</table>
+
+<p><br /></p>
+
+<ul>
+  <li>01/2019 - 07/2020, Research Assistant,  [PolyU] (香港理工) &amp; [HKU] (香港大学)
+    <ul>
+      <li>Builded the lab’s experimental platform consisting of motion capture system(Vicon) and hardware of MAVs.
+*</li>
+      <li>Proposed an universal nonlinear disturbance observer which can be used to estimate both model uncertainties and external disturbances. A flight controller based on this observer and nonlinear dynamic inverse control was designed. Finally, experimental validation was implemented using MAV equipped with Pixracer running PX4.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<ul>
+  <li>05/2017 - 11/2018, Robotics Algorithm Engineer,  [ROKAE] (珞石科技)
+    <ul>
+      <li>ji</li>
+    </ul>
+  </li>
+</ul>
+:ET
