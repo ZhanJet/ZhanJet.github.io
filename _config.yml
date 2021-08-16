@@ -34,8 +34,8 @@ links:
     url: /
   - title: Work
     url: /works/
-  - title: Projects
-    url: /projects/
+#  - title: Projects
+#    url: /projects/
   - title: Publications
     url: /publications/
   - title: Blog
