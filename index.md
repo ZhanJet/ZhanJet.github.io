@@ -5,7 +5,7 @@ layout: page
 
 <br/>
 <img src="./images/tzhj_robot.jpg" class="floatpic" width="50%" height="50%">
-**Hi there!** I'm currently a research engineer at [Shenzhen Institute of Artificial Intelligence and Robotics for Society]  \([AIRS]\), mainly working on the *Multi-Agent Collaborative Manipulation* strand of [UoE-AIRS Joint Project].
+*Hi there!* I'm currently a research engineer at [Shenzhen Institute of Artificial Intelligence and Robotics for Society]  \([AIRS]\), mainly working on the *Multi-Agent Collaborative Manipulation* strand of [UoE-AIRS Joint Project].
 
 Previously, after receiving my B.Sc and M.Eng degrees both from [Beihang University], I worked in industry and developed [an advanced collaborative robot] with torque sensors on each joint as a core member of the algorithm group. Afterwards, I went to Hong Kong and worked as a research assistant with Dr. Peng Lu and Dr. Jia Pan successively.
 
