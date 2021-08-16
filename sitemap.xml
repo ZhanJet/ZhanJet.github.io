@@ -16,7 +16,7 @@ layout: nil
       <loc>https://zhanjet.github.io/experience/</loc>
     </url>
     <url>
-      <loc>https://zhanjet.github.io/hobbies/</loc>
+      <loc>https://zhanjet.github.io/blog/</loc>
     </url>
     {% comment %}
     {% for post in site.posts %}

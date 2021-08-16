@@ -9,14 +9,14 @@ layout: page
 
 Previously, after receiving my B.Sc and M.Eng degrees both from [Beihang University], I worked in industry and developed [an advanced collaborative robot] with torque sensors on each joint as a core member of the algorithm group. Afterwards, I went to Hong Kong and worked as a research assistant with Dr. Peng Lu and Dr. Jia Pan successively.
 
-I am interested in applying advanced control techniques to robots that are able to interact with the environment and more collaborative with humans. Now, I am mainly working on developing adaptive control algorithms on mobile-manipulators for efficient human-robot collaboration to improve the working efficiency in factories.
+I am interested in applying advanced control techniques to robots that are able to interact with the environment and more collaborative with humans. Now, I am mainly working on developing adaptive control algorithm on mobile-manipulators for efficient human-robot collaboration to improve the working efficiency in factories.
 
 #### Education
 
-- 2014 - 2017,  **M.Eng**,  [Beihang University]
+- 2014 - 2017,  **M.Eng**,  [Beihang University], GPA 3.84/4.0
   - *Flight Dynamics & Control*
   - Excellent Graduate Student Award (top 10%)
-- 2010 - 2014,  **B.Sc**,  [Beihang University]
+- 2010 - 2014,  **B.Sc**,  [Beihang University], GPA 3.70/4.0
   - *Aeronautical Engineering*
   - Excellent Student Award (top 10%)
 
