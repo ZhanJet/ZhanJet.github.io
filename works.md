@@ -8,7 +8,7 @@ title: Work
 * 10/2020-present, Research Engineer, [AIRS] (深圳市人工智能与机器人研究院)
   * Work on the strand of *Multi-Agent Collaborative Manipulation* of [UoE-AIRS Joint Project]
   * Developed a *Whole-Body Controller* for mobile-manipulators based on Dynamic Motion Primitive (DMP) for intuitive *human-robot collaboration*.
-  * Developed Force Control software including admittace control, force tracking and *hybrid impedance/force control* for manipulators mounted F/T sensor on end-effector.
+  * Developed Force Control software including admittace control, force tracking and *hybrid impedance/force control* for manipulators mounted F/T sensor on the end-effector.
 
 <table style="width: 540px">
   <tr>
@@ -38,7 +38,7 @@ title: Work
 
 * 01/2019-07/2020, Research Assistant,  [PolyU] (香港理工) & [HKU] (香港大学)
   * Builded the lab’s experimental platform consisting of motion capture system(Vicon) and hardware of MAVs.
-  * Proposed an model-based *disturbance observer* which can be used to estimate both model uncertainties and external disturbances. A *anti-disturbance controller* based on this observer and nonlinear dynamic inverse control(NDI) was designed. Finally, experimental validation was implemented using MAV equipped with Pixracer running PX4.
+  * Proposed a model-based *disturbance observer* which can be used to estimate both model uncertainties and external disturbances. An *anti-disturbance controller* based on this observer and nonlinear dynamic inverse control(NDI) was designed. Finally, experimental validation was implemented using MAVs equipped with Pixracer running PX4.
   * Integrated Dynamic Movement Primitive(DMP) with prediction of human’s motion in collaborative human-robot object transporting task with the aim of assisting workers in handling heavy objects.
 
 <table style="width: 540px">

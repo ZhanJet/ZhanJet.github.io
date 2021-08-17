@@ -18,7 +18,7 @@ pubs:
     url: "https://www.sciencedirect.com/science/article/abs/pii/S1270963819316414"
 
   - author: "**Zhangjie Tu**, Lixin Wang, Junping Chen"
-    title: "Assessment of go-around climb gradient for civil aircraft based on digital virtual flight"
+    title: "Assessment of Go-around Climb Gradient for Civil Aircraft Based on Digital Virtual Flight"
     month: "February"
     year: "2017"
     journal: "Journal of Beijing University of Aeronautics & Astronautics"
