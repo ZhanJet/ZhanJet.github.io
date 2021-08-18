@@ -9,7 +9,7 @@ layout: page
 
 Previously, after receiving my B.Sc and M.Eng degrees both from [Beihang University], I worked in industry and developed [an advanced collaborative robot] with torque sensors on each joint as a core member of the algorithm group. Afterwards, I went to Hong Kong and worked as a research assistant with Dr. Peng Lu and Dr. Jia Pan successively.
 
-I am interested in applying advanced control technologies to robots so that they can not only interact with the environment under various uncertainties, but also be more collaborative with humans. Now, I am mainly working on developing adaptive control on mobile-manipulators for efficient human-robot collaboration to improve the working efficiency in factories.
+I am interested in applying advanced control technologies to robots so that they can not only interact safely and robustly with the environment under various uncertainties, but also be more collaborative with humans. Now, I am mainly working on developing adaptive control on mobile-manipulators for efficient human-robot collaboration to improve the working efficiency in factories.
 
 #### Education
 
