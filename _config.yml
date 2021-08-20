@@ -32,8 +32,7 @@ bing_verify:
 links:
   - title: About Me
     url: /
-#  - title: Work
-  - title: Projects
+  - title: Work
     url: /works/
 #  - title: Projects
 #    url: /projects/

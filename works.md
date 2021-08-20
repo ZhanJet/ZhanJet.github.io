@@ -3,7 +3,7 @@ layout: page
 permalink: /works/index.html
 title: Work
 ---
-## Project Experience
+## Work Experience
 
 * 10/2020-present, Research Engineer, [AIRS] (深圳市人工智能与机器人研究院)
   * Work on the strand of *Multi-Agent Collaborative Manipulation* of [UoE-AIRS Joint Project]
