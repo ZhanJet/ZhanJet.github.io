@@ -40,7 +40,8 @@ links:
 #    url: /publications/
     url: /
   - title: Blog
-    url: /blog/
+#    url: /blog/
+    url: /
 #  - title: Hobbies
 #    url: /hobbies/
 
