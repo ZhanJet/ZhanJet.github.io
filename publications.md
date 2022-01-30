@@ -3,12 +3,18 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - author: "**Zhangjie Tu**, Peng Lu"
-    title: "Model-based Disturbance Observation and Rejection for Quadrotors Inputted with Wrench Command"
+  - author: "**Zhangjie Tu**, Lei Yan, Tianwei Zhang, Tin lun Lam and Sethu Vijayakumar"
+    title: "Unified Whole-Body Control Framework for Mobile Collaborative Robots Using Coupling Dynamic Movement Primitives"
     month: "**in prep**"
     year: ""
-    booktitle: "Technical Report"
+    booktitle: ""
     url: ""
+#  - author: "**Zhangjie Tu**, Peng Lu"
+#    title: "Model-based Disturbance Observation and Rejection for Quadrotors Inputted with Wrench Command"
+#    month: "**in prep**"
+#    year: ""
+#    booktitle: "Technical Report"
+#    url: ""
 
   - author: "Zhiwei Hou, Peng Lu, **Zhangjie Tu**"
     title: "Nonsingular Terminal Sliding Mode Control for a Quadrotor UAV with a Total Rotor Failure"
