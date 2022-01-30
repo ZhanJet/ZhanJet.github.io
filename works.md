@@ -14,6 +14,19 @@ title: Work
   <tr>
     <td style="width: 30px">&ensp;&ensp;&ensp;&ensp;&ensp;</td>
     <td>
+      <iframe width="480" height="250" src="https://www.youtube.com/embed/MTbA6UGbXxQ" frameborder="0"></iframe>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 30px">&ensp;&ensp;&ensp;&ensp;&ensp;</td>
+    <th>Hybrid Impedance/Force Control</th>
+  </tr>
+</table>
+
+<table style="width: 540px">
+  <tr>
+    <td style="width: 30px">&ensp;&ensp;&ensp;&ensp;&ensp;</td>
+    <td>
       <iframe width="450" height="250" src="https://www.youtube.com/embed/QORQZ1yRu40" frameborder="0"></iframe>
     </td>
   </tr>
@@ -23,18 +36,6 @@ title: Work
   </tr>
 </table>
 
-<table style="width: 540px">
-  <tr>
-    <td style="width: 30px">&ensp;&ensp;&ensp;&ensp;&ensp;</td>
-    <td>
-      <iframe width="480" height="250" src="https://www.youtube.com/embed/MTbA6UGbXxQ" frameborder="0"></iframe>
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 30px">&ensp;&ensp;&ensp;&ensp;&ensp;</td>
-    <th>Hybrid Impedance/Force Control</th>
-  </tr>
-</table>
 
 * 01/2019-07/2020, Research Assistant,  [PolyU] & [HKU]
   * Built the lab’s experimental platform consisting of motion capture system(Vicon) and hardware of MAVs.
