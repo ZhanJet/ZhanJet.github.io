@@ -7,21 +7,8 @@ title: Work
 
 * 10/2020-present, Research Engineer, [AIRS]
   * Work on the strand of *Multi-Agent Collaborative Manipulation* of [UoE-AIRS Joint Project]
-  * Proposed a *Whole-body Control framework* for velocity-controlled mobile-manipulators based on Coupling Dynamic Motion Primitive (CDMP) enabling abilities of whole-body coordination, interaction with humans and the environment and learning from demonstation.
+  * Proposed a *Whole-body Control framework* for velocity-controlled mobile-manipulators based on Coupling Dynamic Movement Primitive (CDMP) enabling abilities of whole-body coordination, interaction with humans and the environment and learning from demonstation.
   * Developed a software architecture with functions of Whole-body Control, Hybrid Impedance/Force Control, Dual-arm coordination control... solely from scratch.
-
-<table style="width: 540px">
-  <tr>
-    <td style="width: 30px">&ensp;&ensp;&ensp;&ensp;&ensp;</td>
-    <td>
-      <iframe width="480" height="250" src="https://www.youtube.com/embed/MTbA6UGbXxQ" frameborder="0"></iframe>
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 30px">&ensp;&ensp;&ensp;&ensp;&ensp;</td>
-    <th>Hybrid Impedance/Force Control</th>
-  </tr>
-</table>
 
 <table style="width: 540px">
   <tr>
@@ -36,6 +23,18 @@ title: Work
   </tr>
 </table>
 
+<table style="width: 540px">
+  <tr>
+    <td style="width: 30px">&ensp;&ensp;&ensp;&ensp;&ensp;</td>
+    <td>
+      <iframe width="480" height="250" src="https://www.youtube.com/embed/MTbA6UGbXxQ" frameborder="0"></iframe>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 30px">&ensp;&ensp;&ensp;&ensp;&ensp;</td>
+    <th>Hybrid Impedance/Force Control</th>
+  </tr>
+</table>
 
 * 01/2019-07/2020, Research Assistant,  [PolyU] & [HKU]
   * Built the lab’s experimental platform consisting of motion capture system(Vicon) and hardware of MAVs.
