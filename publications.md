@@ -3,12 +3,12 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - author: "**Zhangjie Tu**, Lei Yan, Tianwei Zhang, Tin lun Lam and Sethu Vijayakumar"
-    title: "Unified Whole-Body Control Framework for Mobile Collaborative Robots Using Coupling Dynamic Movement Primitives"
-    month: "**in prep**"
+  - author: "**Zhangjie Tu**, Lei Yan, Tianwei Zhang, Tin lun Lam"
+    title: "Whole-Body Control for Velocity-Controlled Mobile Collaborative Robots Using Coupling Dynamic Movement Primitives"
+    month: "**submitted to IROS2022**"
     year: ""
     booktitle: ""
-    url: ""
+    url: "https://arxiv.org/abs/2203.03296"
 #  - author: "**Zhangjie Tu**, Peng Lu"
 #    title: "Model-based Disturbance Observation and Rejection for Quadrotors Inputted with Wrench Command"
 #    month: "**in prep**"
