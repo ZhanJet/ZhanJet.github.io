@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - author: "**Zhangjie Tu**, Lei Yan, Tianwei Zhang, Tin lun Lam"
+  - author: "**Zhangjie Tu**, Tianwei Zhang, Lei Yan, Tin lun Lam"
     title: "Whole-Body Control for Velocity-Controlled Mobile Collaborative Robots Using Coupling Dynamic Movement Primitives"
     month: "**submitted**"
     year: ""
