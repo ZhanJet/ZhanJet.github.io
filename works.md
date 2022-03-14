@@ -82,7 +82,7 @@ title: Work
   </tr>
   <tr>
     <td style="width: 30px">&ensp;&ensp;&ensp;&ensp;&ensp;</td>
-    <th>DOBC based Soft Joint Control Tackling Torque Fluctuation</th>
+    <th>DOBC based Flexible Joint Control Tackling Torque Fluctuation</th>
   </tr>
 </table>
 
