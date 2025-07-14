@@ -36,7 +36,7 @@ title: Work
   </tr>
 </table>
 
-* 01/2019-07/2020, Research Assistant,  [PolyU] & [HKU]
+* 01/2019-07/2020, Research Assistant,  [HKU]
   * Built the lab’s experimental platform consisting of motion capture system(Vicon) and hardware of MAVs.
   * Proposed a model-based *disturbance observer* which can be used to estimate both model uncertainties and external disturbances. An *anti-disturbance controller* based on this observer and nonlinear dynamic inverse control(NDI) was designed. Finally, experimental validation was implemented using MAVs equipped with Pixracer running PX4.
   * Integrated Dynamic Movement Primitive(DMP) with prediction of human’s motion in collaborative human-robot object transporting task with the aim of assisting workers in handling heavy objects.
