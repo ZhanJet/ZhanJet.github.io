@@ -23,7 +23,7 @@ I am interested in applying advanced control technologies to robots so that they
 #### Experience
 
 - 10/2020 - present, Research Engineer,  [AIRS]
-- 01/2019 - 07/2020, Research Assistant,  [PolyU] & [HKU]
+- 01/2019 - 07/2020, Research Assistant,  [HKU]
 - 05/2017 - 11/2018, Robotics Algorithm Engineer,  [ROKAE]
 
 #### Skills
