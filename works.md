@@ -54,7 +54,7 @@ title: Work
   </tr>
 </table>
 
-* 05/2017-11/2018, Robotics Algorithm Engineer,  [ROKAE]
+* 05/2017-12/2018, Robotics Algorithm Engineer,  [ROKAE]
   * Responsible for the research and development work in the direction of Dynamic and Control.
   * As a core member of the algorithm group, **participated in the development of *[an advanced 7-DOF collaborative robot]* with torque sensors on each joint**.
   * developed an *analytic inverse kinematics solver* for 7-DOF robot with SRS configuration whose measured average computational time is only **4.8μs**.
